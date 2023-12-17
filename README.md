@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on: Enhancing iOS applications with ARKit and CoreML, focusing on creating innovative user experiences in startup environments.
+
 🌱 I’m currently learning: Advanced techniques in augmented reality and machine learning to bring cutting-edge features to mobile applications.
 
 👯 I’m looking to collaborate on: Projects aimed at startup development, especially those requiring a blend of technical prowess and entrepreneurial spirit.
