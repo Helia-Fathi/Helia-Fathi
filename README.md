@@ -16,12 +16,19 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on: Enhancing iOS applications with ARKit and CoreML, focusing on creating innovative user experiences in startup environments.
+
 🌱 I’m currently learning: Advanced techniques in augmented reality and machine learning to bring cutting-edge features to mobile applications.
+
 👯 I’m looking to collaborate on: Projects aimed at startup development, especially those requiring a blend of technical prowess and entrepreneurial spirit.
+
 🤔 I’m looking for help with: Expanding my knowledge in software architecture and user experience design for iOS applications.
+
 💬 Ask me about: My journey co-founding startups, iOS development, ARKit, CoreML, and balancing creativity with technical expertise.
+
 📫 How to reach me: [helia.f76@gmail.com]
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: Despite being a bit movement lazy, my enthusiasm for startups and technology knows no bounds!
 
 
